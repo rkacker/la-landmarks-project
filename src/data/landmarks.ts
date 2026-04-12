@@ -217,7 +217,7 @@ export const landmarks: Landmark[] = [
     story: "Dodger Stadium is the home of the Los Angeles Dodgers baseball team. It opened in 1962 and sits on a hill called Chavez Ravine with beautiful views of the downtown skyline and the San Gabriel Mountains. It is the oldest baseball stadium west of the Mississippi River and can hold 56,000 fans! The stadium is famous for its Dodger Dogs, clear blue skies, and exciting games.",
     funFact: "Dodger Stadium uses so many Dodger Dogs that they would stretch from LA to San Francisco if you lined them all up!",
     distanceFromSchool: "About 16 miles east of our school",
-    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Dodger_Stadium_Fireworks_Night.png/1280px-Dodger_Stadium_Fireworks_Night.png",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Dodger_Stadium_Opening_Day_2009.jpg/1280px-Dodger_Stadium_Opening_Day_2009.jpg",
     category: "history",
     mapX: 60,
     mapY: 40,
