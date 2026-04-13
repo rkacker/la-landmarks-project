@@ -3,7 +3,7 @@ import { DivIcon } from "leaflet";
 import "leaflet/dist/leaflet.css";
 import { landmarks } from "../data/landmarks";
 
-const SCHOOL = { lat: 34.0195, lng: -118.4912, name: "Carlthorp School" };
+const SCHOOL = { lat: 34.0195, lng: -118.4912, name: "Our School" };
 
 const categoryConfig: Record<string, { color: string; bg: string; emoji: string; label: string }> = {
   food:    { color: "#92400E", bg: "#FEF3C7", emoji: "🍔", label: "Food" },
@@ -92,7 +92,7 @@ export function LAMap() {
             <Marker position={[SCHOOL.lat, SCHOOL.lng]} icon={schoolIcon}>
               <Popup>
                 <div className="text-center">
-                  <strong className="text-amber-700 text-base">Carlthorp School</strong>
+                  <strong className="text-amber-700 text-base">Our School</strong>
                   <p className="text-sm text-gray-500 mt-1">Our school in Santa Monica!</p>
                 </div>
               </Popup>

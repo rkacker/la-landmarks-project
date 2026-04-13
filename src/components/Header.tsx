@@ -8,7 +8,7 @@ export function Header({ onToggleMap, showMap }: { onToggleMap: () => void; show
               Discover LA
             </h1>
             <p className="mt-1 text-lg text-gray-500">
-              Our Landmarks Project — Carlthorp School, 3rd Grade
+              Our Landmarks Project — 3rd Grade
             </p>
           </div>
           <button

@@ -1,6 +1,6 @@
 # Discover LA: Our Landmarks Project
 
-A fun, visual-first website built by **Carlthorp School 3rd graders** in Santa Monica to explore the history and stories behind famous Los Angeles landmarks.
+A fun, visual-first website built by **3rd graders** in Santa Monica to explore the history and stories behind famous Los Angeles landmarks.
 
 ![In-N-Out Burger — one of 16 LA landmarks featured on the site](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/In-N-Out_Burger_at_Fisherman%27s_Wharf_in_San_Francisco_%28TK1%29.JPG/960px-In-N-Out_Burger_at_Fisherman%27s_Wharf_in_San_Francisco_%28TK1%29.JPG)
 
@@ -40,4 +40,4 @@ Open [localhost:5173](http://localhost:5173) to view it locally.
 
 ## License
 
-Built for educational purposes at Carlthorp School.
+Built for educational purposes.
